@@ -17,7 +17,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/Ghoulified/Ghoulified-Reality/blob/main/Skyrim%20Special%20Edition%206_9_2024%205_01_50%20AM.png",
+      "image": "https://raw.githubusercontent.com/Ghoulified/Ghoulified-Reality/main/Ghoul.png",
       "readme": "https://github.com/Ghoulified/Ghoulified-Reality/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ghoulified%20Reality.wabbajack_6b92a4ea-54af-454c-886f-508d1b74e18c",
       "machineURL": "GhoulifiedReality",
