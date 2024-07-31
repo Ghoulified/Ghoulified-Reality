@@ -3,9 +3,9 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "My Modlist",
     "description": "A clean stable and beautiful 3BFTweaks Experience",
-    "author": "<Ghoulified>",
+    "author": "Ghoulified",
     "maintainers": [
-      "github/<Ghoulified-Reality>"
+      "github/Ghoulified-Reality"
     ],
     "game": "skyrimspecialedition",
     "tags": [
@@ -17,11 +17,11 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<https://github.com/Ghoulified/Ghoulified-Reality/blob/main/Skyrim%20Special%20Edition%206_9_2024%205_01_50%20AM.png>",
-      "readme": "<https://github.com/Ghoulified/Ghoulified-Reality/blob/main/README.md>",
+      "image": "https://github.com/Ghoulified/Ghoulified-Reality/blob/main/Skyrim%20Special%20Edition%206_9_2024%205_01_50%20AM.png",
+      "readme": "https://github.com/Ghoulified/Ghoulified-Reality/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ghoulified%20Reality.wabbajack_6b92a4ea-54af-454c-886f-508d1b74e18c",
       "machineURL": "GhoulifiedReality",
-      "discordURL": "<https://discord.gg/cdDMnacz>"
+      "discordURL": "https://discord.gg/cdDMnacz"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
