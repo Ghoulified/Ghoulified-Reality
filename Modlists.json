@@ -13,26 +13,26 @@
       "3BFTweaks"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Ghoulified/Ghoulified-Reality/main/Ghoul_Logo_16x9.png",
       "readme": "https://themoddingbungalo.com/lists/ghoulified/index/",
-      "download": "https://authored-files.wabbajack.org/Ghoulified%20Reality.wabbajack_0f074710-5215-48f0-9e02-d7d4422a4115",
+      "download": "https://authored-files.wabbajack.org/Ghoulified%20Reality.wabbajack_2daa1725-5295-4ce0-aa8a-0a9a564f6aee",
       "machineURL": "GhoulifiedReality",
       "discordURL": "https://discord.gg/BfUH6rUz"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "fKeykjWHBMw=",
-      "Size": 2089290483,
-      "NumberOfArchives": 1790,
-      "SizeOfArchives": 154227876255,
-      "NumberOfInstalledFiles": 145634,
-      "SizeOfInstalledFiles": 179343528499
+      "Hash": "fw0bRhQ5BiU=",
+      "Size": 2092557427,
+      "NumberOfArchives": 1796,
+      "SizeOfArchives": 162985803642,
+      "NumberOfInstalledFiles": 144971,
+      "SizeOfInstalledFiles": 179224183010
     },
-    "version": "1.7"
+    "version": "1.7.1"
   }
 ]
 
