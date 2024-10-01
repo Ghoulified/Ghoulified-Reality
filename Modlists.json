@@ -19,20 +19,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Ghoulified/Ghoulified-Reality/main/Ghoul_Logo_16x9.png",
       "readme": "https://themoddingbungalo.com/lists/ghoulified/index/",
-      "download": "https://authored-files.wabbajack.org/Ghoulified%20Reality.wabbajack_fdde9907-a46f-45f9-ae55-9ee11059fe8e",
+      "download": "https://authored-files.wabbajack.org/Ghoulified%20Reality.wabbajack_38ea8799-3430-4e9f-8d16-06d904c27bee",
       "machineURL": "GhoulifiedReality",
       "discordURL": "https://discord.gg/BfUH6rUz"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "X4xsm8PsDGM=",
-      "Size": 2125213766,
+      "Hash": "5OP9XRhl7p8=",
+      "Size": 2127849415,
       "NumberOfArchives": 1776,
       "SizeOfArchives": 152950629661,
-      "NumberOfInstalledFiles": 144992,
-      "SizeOfInstalledFiles": 179274924493
+      "NumberOfInstalledFiles": 145011,
+      "SizeOfInstalledFiles": 179301402699
     },
-    "version": "1.7.2"
+    "version": "1.7.3"
   }
 ]
 
