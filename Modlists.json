@@ -6,9 +6,11 @@
     "author": "Ghoulified",
     "maintainers": [
       "github/Ghoulified-Reality"
+    "official": true
     ],
     "game": "skyrimspecialedition",
     "tags": [
+      "Official",
       "Requiem",
       "3BFTweaks"
     ],
