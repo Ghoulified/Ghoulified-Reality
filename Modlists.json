@@ -39,9 +39,9 @@
 {
     "title": "NGVO",
     "description": "Next Generation Visual Overhaul (or NGVO) is a visual-only modlist for Skyrim Anniversary Edition. Containing all the latest bugfixes and visual addons, it aims to use all the cutting-edge modding technology available.",
-    "author": "Biggie_Boss",
+    "author": "Biggie_Boss & Ghoulified",
     "maintainers": [
-      "github/biggie-boss"
+      "github/Ghoulified-Reality"
     ],
     "game": "skyrimspecialedition",
     "official": true,
