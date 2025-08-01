@@ -1,45 +1,49 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Ghoulified Reality",
     "description": "A clean stable and beautiful 3BFTweaks Experience",
     "author": "Ghoulified",
     "maintainers": [
       "github/Ghoulified"
     ],
-    "official": true,
     "game": "skyrimspecialedition",
+    "official": true,
     "tags": [
       "Official",
       "Requiem",
       "3BFTweaks"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Ghoulified/Ghoulified-Reality/refs/heads/main/Ghoul_Logo_16x9.webp",
       "readme": "https://themoddingbungalo.com/lists/ghoulified/index/",
-      "download": "https://authored-files.wabbajack.org/Ghoulified%20Reality.wabbajack_75079664-a15e-4b74-a958-fa92b1081db2",
+      "download": "https://authored-files.wabbajack.org/Ghoulified Reality.wabbajack_d1d8123a-1738-424f-908a-82481a0e7106",
       "machineURL": "GhoulifiedReality",
-      "discordURL": "https://discord.gg/4JtB7v3y"
+      "discordURL": "https://discord.gg/4JtB7v3y",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "tYtBFEOgdNI=",
-      "Size": 2498369667,
-      "NumberOfArchives": 1391,
-      "SizeOfArchives": 123390509657,
+      "Hash": "hcLtu1cbBg4=",
+      "Size": 2292026741,
+      "NumberOfArchives": 1445,
+      "SizeOfArchives": 124942139710,
       "NumberOfInstalledFiles": 137828,
-      "SizeOfInstalledFiles": 163501416534
+      "SizeOfInstalledFiles": 163501416436,
+      "TotalSize": 288443556146
     },
-    "version": "3.1"
+    "version": "3.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-01T03:58:24.8701602Z",
+    "repositoryName": ""
   },
-{
+  {
     "title": "NGVO",
     "description": "Next Generation Visual Overhaul (or NGVO) is a visual-only modlist for Skyrim Anniversary Edition. Containing all the latest bugfixes and visual addons, it aims to use all the cutting-edge modding technology available.",
-    "author": "Biggie_Boss & Ghoulified",
+    "author": "Biggie_Boss \u0026 Ghoulified",
     "maintainers": [
       "github/Ghoulified"
     ],
@@ -79,4 +83,3 @@
     "repositoryName": ""
   }
 ]
-
