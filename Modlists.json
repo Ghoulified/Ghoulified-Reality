@@ -17,7 +17,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Ghoulified/Ghoulified-Reality/refs/heads/main/Ghoul_Logo_16x9.webp",
       "readme": "https://themoddingbungalo.com/lists/ghoulified/index/",
