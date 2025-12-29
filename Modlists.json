@@ -63,23 +63,23 @@
     "links": {
       "image": "https://camo.githubusercontent.com/5764dd92e0f422bc99c0fb572e3fd958f6fc432a9f22e3c878b9bb1d8e380613/68747470733a2f2f73746174696364656c69766572792e6e657875736d6f64732e636f6d2f6d6f64732f313730342f696d616765732f3131393937322f3131393937322d313732343936373931362d313236333339343437332e706e67",
       "readme": "https://themoddingbungalo.com/ngvo/read-me/",
-      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_86d44270-68df-426b-8b1d-3ae5f7c1f6bc",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_f70719e6-f330-4488-84c1-cbe19e006bc9",
       "machineURL": "NGVO",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": "https://themoddingbungalo.com/ngvo/overview/"
     },
     "download_metadata": {
-      "Hash": "Hhs9hjJBDcQ=",
-      "Size": 1006838996,
-      "NumberOfArchives": 1638,
-      "SizeOfArchives": 131170020734,
-      "NumberOfInstalledFiles": 151629,
-      "SizeOfInstalledFiles": 169826364278,
-      "TotalSize": 300996385012
+      "Hash": "f3bX6/2rB0Q=",
+      "Size": 1006839315,
+      "NumberOfArchives": 1645,
+      "SizeOfArchives": 131190885125,
+      "NumberOfInstalledFiles": 151586,
+      "SizeOfInstalledFiles": 169872630631,
+      "TotalSize": 301063515756
     },
-    "version": "7.0.4",
+    "version": "7.0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-28T20:22:31.3871985Z",
+    "dateUpdated": "2025-12-29T21:24:15.0700266Z",
     "repositoryName": ""
   }
 ]
