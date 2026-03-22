@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ghoulified/Ghoulified-Reality/refs/heads/main/GR%20New%20Logo.webp",
       "readme": "https://themoddingbungalo.com/lists/ghoulified/index/",
-      "download": "https://authored-files.wabbajack.org/GR.wabbajack_a3d03db5-7cb9-402b-bcea-c05bc6ca25c7",
+      "download": "https://authored-files.wabbajack.org/GR.wabbajack_f61f472b-f1c0-4566-b84c-59494c6602d0",
       "machineURL": "GhoulifiedReality",
       "discordURL": "http://discord.gg/bungalo",
       "websiteURL": "https://themoddingbungalo.com/lists/ghoulified/index/",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "7Vr7Ot4vnnY=",
-      "Size": 922983408,
-      "NumberOfArchives": 1756,
-      "SizeOfArchives": 123583158229,
-      "NumberOfInstalledFiles": 146283,
-      "SizeOfInstalledFiles": 151674975316,
-      "TotalSize": 275258133545
+      "Hash": "vVR5nZLmszQ=",
+      "Size": 922984353,
+      "NumberOfArchives": 1757,
+      "SizeOfArchives": 123583202636,
+      "NumberOfInstalledFiles": 146288,
+      "SizeOfInstalledFiles": 151674981515,
+      "TotalSize": 275258184151
     },
-    "version": "6.0.1",
+    "version": "6.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-22T05:52:30.4934453Z",
+    "dateUpdated": "2026-03-22T05:58:46.7917281Z",
     "repositoryName": ""
   },
   {
