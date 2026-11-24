@@ -64,24 +64,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ghoulified/Ghoulified-Reality/refs/heads/main/NGVO%20Real.webp",
       "readme": "https://themoddingbungalo.com/ngvo/read-me/",
-      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_c3315a4d-4a1c-440b-b3c8-1fc5b85fdd62",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_f9134725-bdd0-4a17-ab02-660433edeb23",
       "machineURL": "NGVO",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": "https://themoddingbungalo.com/ngvo/overview/",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "zJ8tjicngO8=",
-      "Size": 9455356497,
-      "NumberOfArchives": 1639,
-      "SizeOfArchives": 145018331201,
-      "NumberOfInstalledFiles": 189676,
-      "SizeOfInstalledFiles": 186524185383,
-      "TotalSize": 331542516584
+      "Hash": "PCPmP5Q+hEY=",
+      "Size": 10963830216,
+      "NumberOfArchives": 1637,
+      "SizeOfArchives": 143103490615,
+      "NumberOfInstalledFiles": 203433,
+      "SizeOfInstalledFiles": 191164598045,
+      "TotalSize": 334268088660
     },
-    "version": "8.0",
+    "version": "8.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-23T14:31:29.4128473Z",
+    "dateUpdated": "2026-11-24T20:53:10.7912833Z",
     "repositoryName": ""
   }
 ]
